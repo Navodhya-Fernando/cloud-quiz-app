@@ -23,3 +23,11 @@ An interactive, modern quiz app built with **Streamlit** and **MongoDB** — des
 | **MongoDB** | Stores and retrieves quiz questions by topic |
 | **HTML/CSS (in Streamlit)** | Custom styling for modern UI |
 | **Git/GitHub** | Version control and public hosting of code |
+
+---
+
+## 🚀 Try it Online
+
+You can access the app live on Streamlit:
+
+👉 [Launch Cloud Quiz App](https://cloud-quiz-app.streamlit.app)
